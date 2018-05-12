@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '39892'
     url: http://www.gutenberg.org/2009/agents/39892
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39201#Correspondance-Diplomatique-de-Bertrand-de-Salignac-de-La-Mothe-F-n-lon-Tome-Troisi-me
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2012-03-19'
 gutenberg_type: Text
