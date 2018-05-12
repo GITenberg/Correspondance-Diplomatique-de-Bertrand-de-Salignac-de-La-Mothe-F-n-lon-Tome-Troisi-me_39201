@@ -1,0 +1,35 @@
+_repo: Correspondance-Diplomatique-de-Bertrand-de-Salignac-de-La-Mothe-F-n-lon-Tome-Troisi-me_39201
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39201-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Salignac, Bertrand de, seigneur de La Mothe-Fénelon, active 16th century
+    aliases:
+    - Fénelon, Bertrand de Salignac de La Mothe
+    - Fénélon, Bertrand de Salignac de la Mothe
+    - La Mothe-Fénelon, Bertrand de Salignac, seigneur de
+    - Fenelon, Bertrand de Salignac, seigneur de la Mothe
+    - Fénelon, Bertrand de Salignac, seigneur de la Mothe
+    - Fénélon, Bertrand de Salignac de la Motte
+    gutenberg_agent_id: '39892'
+    url: http://www.gutenberg.org/2009/agents/39892
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2012-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39201'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Charles IX, 1560-1574 -- Sources'
+- !lcc 'DC'
+- !lcsh 'Great Britain -- Foreign relations -- France'
+- !lcsh 'France -- Foreign relations -- Great Britain'
+title: Correspondance Diplomatique de Bertrand de Salignac de La Mothe Fénélon, Tome
+  Troisième
+url: http://www.gutenberg.org/ebooks/39201
